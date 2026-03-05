@@ -1,0 +1,57 @@
+SDLC stands for Software Development Life Cycle.
+
+It is a structured process used by development teams to design, develop, and test high-quality software. The goal of the SDLC is to produce software that meets or exceeds customer expectations, is completed within time and cost estimates, and works effectively as intended.
+
+Think of it as the blueprint or roadmap for a software project, similar to how an architect follows a plan to build a house.
+
+The Core Phases of SDLC
+While different methodologies (which we'll cover next) implement these steps differently, most SDLC models share these common phases:
+
+Planning and Requirement Analysis
+
+What happens: This is the most crucial phase. Business analysts, project managers, and stakeholders meet to define the scope of the project. They gather detailed requirements by asking: What problem are we solving? Who is the user? What features do they need? This results in a document called the Software Requirement Specification (SRS).
+
+Goal: To have a crystal-clear understanding of what needs to be built.
+
+Defining (or Requirements Analysis)
+
+What happens: The requirements from the first phase are analyzed for feasibility. The team decides if the project is technically possible, how much it will cost, and how long it will take. Potential risks are identified.
+
+Goal: To finalize the requirements and create a formal plan of action.
+
+Design
+
+What happens: System architects and senior developers create the software's architecture. This includes:
+
+High-Level Design (HLD): The overall system architecture, including database design, technology stack, and module structure.
+
+Low-Level Design (LLD): Detailed design for each module, including algorithms, interfaces, and pseudocode.
+
+Goal: To create a blueprint for the developers to follow.
+
+Development (or Coding)
+
+What happens: This is where the actual coding happens. Developers take the design documents and write the source code. It is typically the longest phase of the SDLC.
+
+Goal: To turn the design into a functional product.
+
+Testing
+
+What happens: Quality Assurance (QA) engineers rigorously test the software for bugs, defects, and inconsistencies. They verify that the software meets the requirements defined in the first phase. Types of testing include unit testing, integration testing, system testing, and user acceptance testing (UAT).
+
+Goal: To ensure the software is of high quality and free of critical errors before it goes live.
+
+Deployment
+
+What happens: The approved software is released to the production environment where users can access it. Deployment can be a one-time event (like installing software on a computer) or a continuous process (like updating a web app).
+
+Goal: To make the software available to its end-users.
+
+Maintenance
+
+What happens: After deployment, the software enters the maintenance phase. The team fixes bugs that users find, makes minor upgrades, and adds new features as needed. This continues until the software is eventually retired.
+
+Goal: To keep the system running smoothly and adapt it to changing user needs over time.
+
+
+
